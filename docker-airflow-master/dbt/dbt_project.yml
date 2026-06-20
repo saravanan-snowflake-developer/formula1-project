@@ -1,0 +1,11 @@
+name: formula_f1
+version: 1.0
+profile: formula_f1
+
+model-paths: ["models"]
+target-path: "target"
+clean-targets: ["target"]
+
+models:
+  formula_f1:
+  
